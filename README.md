@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Im-Dorcat
+- 👀 I’m interested in making minecraft plugins
+- 🌱 I’m currently learning c++
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've never had a friend😅
